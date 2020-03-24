@@ -16,13 +16,21 @@
 
 [Vector dot and cross products](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-dot-product-and-vector-length)
 
+[What is a tensor](https://www.youtube.com/watch?v=f5liqUk0ZTw)
+
 
 # Introduction to Neural Networks
 
-[what is artificial inteligence?](https://www.youtube.com/watch?v=ad79nYk2keg)
+[What is artificial inteligence?](https://www.youtube.com/watch?v=ad79nYk2keg)
 
 [What is machine learning?](https://www.youtube.com/watch?v=ukzFI9rgwfU)
 
 [What is deep learning?](https://www.youtube.com/watch?v=6M5VXKLf4D4&list=PLEiEAq2VkUUIYQ-mMRAGilfOKyWKpHSip)
 
 [What is neural networks?](https://www.youtube.com/watch?v=bfmFfD2RIcg)
+
+[Layers](https://www.youtube.com/watch?v=FK77zZxaBoI)
+
+[Activation function](https://www.youtube.com/watch?v=m0pIlLfpXWE)
+
+[Different Activation Functions](https://www.youtube.com/watch?v=9vB5nzrL4hY)
