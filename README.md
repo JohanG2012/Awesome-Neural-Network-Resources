@@ -34,3 +34,5 @@
 [Activation function](https://www.youtube.com/watch?v=m0pIlLfpXWE)
 
 [Different Activation Functions](https://www.youtube.com/watch?v=9vB5nzrL4hY)
+
+[Loss function](https://www.youtube.com/watch?v=Skc8nqJirJg)
