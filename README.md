@@ -16,6 +16,8 @@
 
 [Vector dot and cross products](https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/dot-cross-products/v/vector-dot-product-and-vector-length)
 
+[Guardient Decent](https://www.youtube.com/watch?v=sDv4f4s2SB8)
+
 [What is a tensor](https://www.youtube.com/watch?v=f5liqUk0ZTw)
 
 
@@ -36,3 +38,5 @@
 [Different Activation Functions](https://www.youtube.com/watch?v=9vB5nzrL4hY)
 
 [Loss function](https://www.youtube.com/watch?v=Skc8nqJirJg)
+
+[Different Loss Functions](https://www.youtube.com/watch?v=QBbC3Cjsnjg)
