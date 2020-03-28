@@ -1,6 +1,6 @@
 # What is daz?
 
-# Math
+# Prerequisite Math
 
 [Intro to the trigonometric ratios](https://www.khanacademy.org/math/trigonometry/trigonometry-right-triangles/intro-to-the-trig-ratios/v/basic-trigonometry?modal=1)
 
@@ -31,6 +31,8 @@
 
 [What is neural networks?](https://www.youtube.com/watch?v=bfmFfD2RIcg)
 
+# Neural Network Foundations
+
 [Layers](https://www.youtube.com/watch?v=FK77zZxaBoI)
 
 [Activation function](https://www.youtube.com/watch?v=m0pIlLfpXWE)
@@ -40,3 +42,15 @@
 [Loss function](https://www.youtube.com/watch?v=Skc8nqJirJg)
 
 [Different Loss Functions](https://www.youtube.com/watch?v=QBbC3Cjsnjg)
+
+[Optimization Part 1](https://www.youtube.com/watch?v=x6f5JOPhci0)
+
+[Optimization Part 2](https://www.youtube.com/watch?v=NzwMV2b7jbQ)
+
+[Optimization Part 3](https://www.youtube.com/watch?v=DRqaCsAKPm4)
+
+[Optimization Part 4](https://www.youtube.com/watch?v=KfS_QsHgIg4)
+
+[How to choose number of hidden layers](https://www.youtube.com/watch?v=Bc2dWI3vnE0)
+
+[Differnet Kinds of Neural Networks](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
